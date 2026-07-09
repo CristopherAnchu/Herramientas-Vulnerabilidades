@@ -6,6 +6,14 @@ Clona el repositorio oficial de Juice Shop en tu máquina:
 
 git clone https://github.com/juice-shop/juice-shop.git
 
+ir al siguiente link para descargar WebGoat:
+
+https://github.com/WebGoat/WebGoat/releases/tag/v2025.3
+
+Descargar el archivo `Source Code.zip` y extraerlo.
+
+![alt text](image.png)
+
 ## 1. Levantar servicios
 
 Ejecuta en PowerShell desde la raiz del proyecto:
