@@ -12,7 +12,11 @@ https://github.com/WebGoat/WebGoat/releases/tag/v2025.3
 
 Descargar el archivo `Source Code.zip` y extraerlo.
 
-![alt text](image.png)
+![alt text](img/image.png)
+
+El proyecto deberia de tener la siguiente estructura:
+![alt text](img/image-1.png)
+
 
 ## 1. Levantar servicios
 
